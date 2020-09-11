@@ -1,0 +1,23 @@
+{
+  "name": "can-ignore",
+  "version": "1.0.0",
+  "description": "Quick way to determine if a given file can be ignored based on .git ignore rules in all the .gitignore files affecting it",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "gitignore",
+    "directory",
+    "ignore",
+    "file"
+  ],
+  "author": "",
+  "dependencies": {
+    "find-up": "^5.0.0",
+    "ignore": "^5.1.8",
+    "mem": "^6.1.1"
+  }
+}
