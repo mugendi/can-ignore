@@ -14,10 +14,19 @@
     "ignore",
     "file"
   ],
-  "author": "",
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
   "dependencies": {
     "find-up": "^5.0.0",
     "ignore": "^5.1.8",
     "mem": "^6.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/can-ignore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/can-ignore/issues"
+  },
+  "homepage": "https://github.com/mugendi/can-ignore#readme"
 }
